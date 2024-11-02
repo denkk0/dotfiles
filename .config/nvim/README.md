@@ -20,6 +20,8 @@ brew install git \
   gcc \
   ripgrep \
   xclip \
+  go \
+  node \
   lazygit && \
 brew install --cask font-jetbrains-mono-nerd-font
 ```
